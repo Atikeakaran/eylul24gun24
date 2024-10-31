@@ -5,6 +5,10 @@ let birlesik = dizi.join("<>");
 console.log(birlesik);
 
 //dizi üzerinde dönme yöntemleri
+/* 
+for : Bir kod bloğunu belirtilen sayıda döngüye alır.
+for/in : Bir nesnenin özelliklerini döngüye alır.
+for/of : Yinelenebilir bir nesnenin değerlerini döngüye alır. */
 
 // 1:for
 for (let i = 0; i < dizi.length; i++)
